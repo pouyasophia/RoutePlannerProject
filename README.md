@@ -2,26 +2,22 @@
 
 This repo contains the code for a Route Planning project. All source code located in src/ directory. Program requires a starting and ending x, y coordinate pair. Starting coordinates must be greater than or equal to 0 and less than or equal to 100. Upon compiling and executing OSM_A_star_search, the user will enter starting and ending coordinates. The program will display a graphic rendering of the fatest route between the coordinates and write the total distance to the terminal.  
 
-## Compiling and Running
+## Instructions
 
-### Compiling
+1. Clone the project repository: `git clone https://github.com/pouyasophia/RoutePlannerProject.git`
 
-mkdir build && cd build
+2. Build the project: 
+	`mkdir build`
+	`cd build`
+	`cmake ..`
+	`make`
 
-cmake ..
-make
-
-### Running
-
-from `build`:
-
-./OSM_A_star_search
+3. Run the resulting executable: `./OSM_A_star_search`
 
 ## Testing
 
-from `build`:
+	Run the test executable from the build folder: `./test`
 
-./test
 
 ## Troubleshooting Tips for IO2D Installation  
 
