@@ -7,10 +7,10 @@ This repo contains the code for a Route Planning project. All source code locate
 1. Clone the project repository: `git clone https://github.com/pouyasophia/RoutePlannerProject.git`
 
 2. Build the project: 
-	`mkdir build`
-	`cd build`
-	`cmake ..`
-	`make`
+	2.1 `mkdir build`
+	2.2 `cd build`
+	2.3 `cmake ..`
+	2.4 `make`
 
 3. Run the resulting executable: `./OSM_A_star_search`
 
