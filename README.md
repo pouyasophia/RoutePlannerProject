@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the code for a Route Planning project. All source code located in src/ directory. Program requires a starting and ending x, y coordinate pair. Starting coordinates must be greater than or equal to 0 and less than or equal to 100. Upon compiling and executing OSM_A_star_search, the user will enter starting and ending coordinates. The program will display a graphic rendering of the fatest route between the coordinates and write the total distance to the terminal.  
 
 ## Compiling and Running
 
