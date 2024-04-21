@@ -16,7 +16,7 @@ This repo contains the code for a Route Planning project. All source code locate
 
 ## Testing
 
-	Run the test executable from the build folder: `./test`
+	Run the test executable from the build folder: ./test
 
 
 ## Troubleshooting Tips for IO2D Installation  
